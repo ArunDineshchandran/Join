@@ -1,0 +1,12 @@
+#!/bin/bash
+echo "Provide the value of A"
+read A
+echo "Provide the value of B"
+read B
+echo "Value of $A * $B = $((A * B))"
+
+a=$10
+b=$10
+
+echo "Multiply of a*b = $((a*b))"
+
