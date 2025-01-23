@@ -1,0 +1,5 @@
+#! /bin/bash
+echo "What is your name"
+read X
+echo "My name is $X "
+echo "Welcome to our Company $X"
